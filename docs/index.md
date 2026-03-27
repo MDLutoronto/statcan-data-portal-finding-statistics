@@ -5,6 +5,9 @@ description: "Link to a video tutorial on how to find statistics and manipulate 
 staff:
     - name: Nadia Muhe
       link: https://library.utoronto.ca/staff/nadia-muhe 
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 created_date: 2018-09-12
 permalink: "/"  #! Remove this if not the homepage
 ---
