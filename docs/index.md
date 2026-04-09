@@ -18,4 +18,3 @@ Link to a video tutorial on how to find statistics and manipulate tables to get 
 
 [https://library.wlu.ca/help/tutorials/finding-statistics-using-statcans-data-portal](https://library.wlu.ca/help/tutorials/finding-statistics-using-statcans-data-portal)
 
-Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data)
