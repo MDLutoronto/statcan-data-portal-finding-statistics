@@ -18,5 +18,5 @@ Link to a video tutorial on how to find statistics and manipulate tables to get 
 
 [https://library.wlu.ca/help/tutorials/finding-statistics-using-statcans-data-portal](https://library.wlu.ca/help/tutorials/finding-statistics-using-statcans-data-portal)
 
-Technique: [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data)
+**Technique:** [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data)
 
